@@ -1,6 +1,6 @@
 # Employee Survey Analysis
 ## About the project
-This is an analysis conducted on the employee responses on employee engagement survey done by Pierce Country WA.
+This is an analysis conducted on  employee engagement survey responses done by Pierce Country WA.
 The analysis exercise is to derive findings, trends and insights which will help the organization to improve the satisfaction and growth of the employees.
 ### About the Data Source
 The dataset is a Single table ("Employee Survey.xlxs") and contains 14,725 records. The total number of fields is 10.
